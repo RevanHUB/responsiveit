@@ -1,6 +1,6 @@
 # responsive-it
 
-A simple template made with React & styled components to show a website inside as a mobile first ux 🥳
+A simple template made with React & styled components to show a website as a mobile first ux 🥳
 
 # Use: ✨
 ``` git clone https://github.com/RevanHUB/responsiveit/ ```
